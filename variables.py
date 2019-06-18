@@ -13,7 +13,7 @@ room = 503
 print('I am stayign in room number..')
 print(room)
 
-# cr8 2 variables: top_speed and distance
+# create two variables: top_speed and distance
 
 top_speed = 160
 distance = 300
